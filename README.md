@@ -5,9 +5,9 @@
 3. Paste the Touch folder inside of WindowsPowerShell > Modules
 4. Done, you may restart powershell
 
-## (Optional, for Powershell 7.*)
+## (Optional, for Powershell 7.0)
 if you are a Powershell 7.0 User, do Both
 
 1. Open Explorer and locate your Docuemtns folder.
 2. Paste the Touch folder insode of PowerShell >  Modules
-3. Done, you may restart powershell 7.0	
+3. Done, you may restart powershell 7.0
