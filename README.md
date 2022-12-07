@@ -10,7 +10,7 @@ That creates an empty file in your current location called Demo.txt. Match that 
 
 
 ## Why not just "$null > Demo.txt"
-Well if you are researching Touch for Powershell, you are probably already familiar with Linux or similar products, and don't want to adapt to windows's bullshit just use this
+Well if you are researching Touch for Powershell, you are probably already familiar with Linux or similar products, and don't want to adapt to windows's bullshit. use this to boost the PowerShell Experience
 
 ## Installation
 
