@@ -1,5 +1,5 @@
 # What is Touch
-Touch is an easy way to create files using Powershell, its originally from linux, unux, freebsd and osx.
+Touch is an easy way to create files using Powershell, its originally from linux, unix, freebsd and osx.
 
 #### example
 
