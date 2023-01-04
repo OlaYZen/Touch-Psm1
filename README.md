@@ -39,3 +39,7 @@ C:\Users\username\Documents\PowerShell\Modules\Touch
 ```
 
 3. Done, you may now restart powershell 7
+
+
+## Why don't you make a powershell script to do this automaticlly?
+im lazy, do it yourself
