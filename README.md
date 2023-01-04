@@ -24,7 +24,7 @@ Well if you are researching Touch for Powershell, you are probably already famil
 C:\Users\username\Documents\WindowsPowerShell\Modules\Touch
 ```
 
-4. Done, you may restart powershell
+4. Done, you may now restart powershell
 
 ## (Optional, for Powershell 7)
 if you are a Powershell 7.0 User, do Both
@@ -38,4 +38,4 @@ if you are a Powershell 7.0 User, do Both
 C:\Users\username\Documents\PowerShell\Modules\Touch
 ```
 
-3. Done, you may restart powershell 7
+3. Done, you may now restart powershell 7
